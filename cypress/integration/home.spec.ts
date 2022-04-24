@@ -1,5 +1,5 @@
 
-import { HomePage } from '../pages/home-page';
+import { HomePage } from '@pages/home-page';
 
 describe('example to-do app', () => {
     beforeEach(() => {

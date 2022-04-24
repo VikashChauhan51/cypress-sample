@@ -8,7 +8,7 @@ Cypress automation framework skeleton with Typescript.
 5. ```git clone https://github.com/VikashChauhan51/cypress-sample.git``` or download `master` branch zip and extract code.
 6. Open project folder with VSCode.
 7.  Run  `npm install` command to restore all packages.
-8.  Run `npm run test` command to run test.
+8.  Run `npm run cypress:test` command to run test.
 
 
 ## New Setup:
@@ -22,4 +22,9 @@ Cypress automation framework skeleton with Typescript.
 9. Run `npx tsc --init --types cypress --lib dom,es6` command to configure typescript.
 10. Run `npx cypress open` command to run test.
 
+
+## References:
+- [Cypress overview](https://docs.cypress.io/guides/overview/why-cypress).
+- [Cypress Typescript support](https://docs.cypress.io/guides/tooling/typescript-support).
+- [Cypress with TypeScript](https://www.youtube.com/watch?v=1nuPwejrnJc).
 
