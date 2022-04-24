@@ -1,6 +1,20 @@
 # Cypress Sample
 Cypress automation framework skeleton with Typescript.
 
+```
+CYPRESS-SAMPLE
+├───cypress
+│   ├───downloads
+│   ├───fixtures
+│   ├───integration
+│   ├───pages
+│   ├───plugins
+│   ├───screenshots
+│   ├───support
+│   └───videos
+└───node_modules
+```
+
 ## Local Setup:
 1. Install [Microsoft Visual Studio Code IDE](https://code.visualstudio.com). Ignore this if already installed.
 3. Install [Nodejs](https://nodejs.org/) on your system. Ignore this if already installed.
