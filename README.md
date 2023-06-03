@@ -6,7 +6,7 @@ CYPRESS-SAMPLE
 ├───cypress
 │   ├───downloads
 │   ├───fixtures
-│   ├───integration
+│   ├───e2e
 │   ├───pages
 │   ├───plugins
 │   ├───screenshots
@@ -41,5 +41,6 @@ CYPRESS-SAMPLE
 - [Cypress Overview](https://docs.cypress.io/guides/overview/why-cypress).
 - [Cypress Typescript Support](https://docs.cypress.io/guides/tooling/typescript-support).
 - [Cypress Configuration](https://docs.cypress.io/guides/references/configuration)
+- [Writing and Organizing Tests](https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests)
 - [Cypress with TypeScript](https://www.youtube.com/watch?v=1nuPwejrnJc).
 
