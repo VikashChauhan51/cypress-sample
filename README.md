@@ -38,7 +38,8 @@ CYPRESS-SAMPLE
 
 
 ## References:
-- [Cypress overview](https://docs.cypress.io/guides/overview/why-cypress).
-- [Cypress Typescript support](https://docs.cypress.io/guides/tooling/typescript-support).
+- [Cypress Overview](https://docs.cypress.io/guides/overview/why-cypress).
+- [Cypress Typescript Support](https://docs.cypress.io/guides/tooling/typescript-support).
+- [Cypress Configuration](https://docs.cypress.io/guides/references/configuration)
 - [Cypress with TypeScript](https://www.youtube.com/watch?v=1nuPwejrnJc).
 

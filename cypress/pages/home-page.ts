@@ -17,7 +17,7 @@ export class HomePage {
 
     }
     search(text: string) {
-        cy.get('input[name=q]').type(`${text}{enter}`)
+        cy.get('textarea[name=q]').type(`${text}{enter}`)
         return this;
     }
 }
